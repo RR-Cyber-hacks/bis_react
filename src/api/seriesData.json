@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Iron Man",
+        "id": "Iron Man",
+        "img_url": "http://localhost:5173/images/1.jpg",
+        "rating": "9.0",
+        "description": "loremasfajqwoeoqejwojlkfjalsjd",
+        "cast": ["Stark", "caption"],
+        "genre": "adsfas",
+        "watch_url": "https://www.youtube.com/"
+    },
+
+    {
+        "name": "Iron Man_2",
+        "id": "Iron Man_2",
+        "img_url": "http://localhost:5173/images/2.png",
+        "rating": "8.0",
+        "description": "loremasfajqwoeoqejwojlkfjalsjd",
+        "cast": ["Stark", "caption"],
+        "genre": "adsfas",
+        "watch_url": "https://www.youtube.com/"
+    },
+
+    {
+        "name": "Iron Man_3",
+        "id": "Iron Man_3",
+        "img_url": "http://localhost:5173/images/4.jpg",
+        "rating": "7.0",
+        "description": "loremasfajqwoeoqejwojlkfjalsjd",
+        "cast": ["Stark", "caption"],
+        "genre": "adsfas",
+        "watch_url": "https://www.youtube.com/"
+    }
+
+
+]

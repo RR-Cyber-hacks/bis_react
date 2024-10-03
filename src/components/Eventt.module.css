@@ -1,0 +1,21 @@
+.btn_click{
+    color: red;
+    background: wheat;
+    margin: 0 10px;
+    font-weight: bold;
+
+}
+
+.btn_hov{
+    color: green;
+    background: wheat;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.btn_greet{
+    color: orange;
+    background-color: wheat;
+    margin: 0 10px;
+    font-weight: bold;
+}
